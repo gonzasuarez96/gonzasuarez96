@@ -10,7 +10,9 @@ Estoy constantemente buscando oportunidades para seguir aprendiendo y aplicar mi
 ¡Puedes contactarme por:
 
 LinkedIn: www.linkedin.com/in/gonzalo-suarez-dev 🤝
+
 Email: gonzasuarez100@gmail.com ✉️
+
 ¡Estoy ubicado en Córdoba, Argentina! 🌍
 
 Estoy abierto a nuevas oportunidades de trabajo y colaboración. ¡Sígueme y mantengámonos en contacto para futuros proyectos! 🚀✨
