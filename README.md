@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hola 👋, console.log(Hola! Soy Gonzalo Suarez
+![](https://www.canva.com/design/DAFoS-WiQpI/JYuykJtI0yZd7ibMHgGmuQ/view?utm_content=DAFoS-WiQpI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-<!--
-**gonzasuarez96/gonzasuarez96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Soy Gonzalo Suarez, un apasionado de la 🌐 programación y la tecnología. Comencé mi carrera en Ingeniería Ambiental, pero descubrí mi pasión por el 💻 desarrollo de software a lo largo de mis estudios. A través de cursos, bootcamp y aprendizaje autodidacta, he adquirido habilidades en programación y metodologías de trabajo.
 
-Here are some ideas to get you started:
+Estoy constantemente buscando oportunidades para seguir aprendiendo y aplicar mis conocimientos en proyectos desafiantes. Espero algun dia combinar mis habilidades en Ingeniería Ambiental y programación para contribuir en áreas que permitan un impacto positivo en el medio ambiente. 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Puedes contactarme por:
+
+LinkedIn: www.linkedin.com/in/gonzalo-suarez-dev 🤝
+Email: gonzasuarez100@gmail.com ✉️
+¡Estoy ubicado en Córdoba, Argentina! 🌍
+
+Estoy abierto a nuevas oportunidades de trabajo y colaboración. ¡Sígueme y mantengámonos en contacto para futuros proyectos! 🚀✨
+
+Habilidades: Web Developer | Full stack | Frontend | Backend | Javascript | React.js | Redux.js | Express | HTML | CSS | Node js | Sequelize | PostgresSQL | Github | SCRUM
+
+- 🔭 Estoy trabajando en this page. 
+
+
+
+
