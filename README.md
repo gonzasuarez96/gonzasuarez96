@@ -1,5 +1,5 @@
 ### Hola 👋, console.log(Hola! Soy Gonzalo Suarez
-![](https://www.canva.com/design/DAFoS-WiQpI/JYuykJtI0yZd7ibMHgGmuQ/view?utm_content=DAFoS-WiQpI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![](https://drive.google.com/file/d/1BcJAkPFDPukiTUri8nR_ceDqba1W6ofK/view?usp=sharing)
 
 👋 Soy Gonzalo Suarez, un apasionado de la 🌐 programación y la tecnología. Comencé mi carrera en Ingeniería Ambiental, pero descubrí mi pasión por el 💻 desarrollo de software a lo largo de mis estudios. A través de cursos, bootcamp y aprendizaje autodidacta, he adquirido habilidades en programación y metodologías de trabajo.
 
