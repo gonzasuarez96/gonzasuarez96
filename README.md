@@ -17,7 +17,7 @@ Estoy abierto a nuevas oportunidades de trabajo y colaboración. ¡Sígueme y ma
 
 Habilidades: Web Developer | Full stack | Frontend | Backend | Javascript | React.js | Redux.js | Express | HTML | CSS | Node js | Sequelize | PostgresSQL | Github | SCRUM
 
-- 🔭 Estoy trabajando en this page. 
+
 
 
 
