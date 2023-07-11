@@ -1,5 +1,7 @@
-### Hola 👋, console.log(Hola! Soy Gonzalo Suarez
-![](https://drive.google.com/file/d/1BcJAkPFDPukiTUri8nR_ceDqba1W6ofK/view?usp=sharing)
+### console.log(Hola👋! Soy Gonzalo Suarez)
+#### Full stack developer - Desarrolador web
+
+![Full stack developer - Desarrolador web](https://drive.google.com/file/d/1BcJAkPFDPukiTUri8nR_ceDqba1W6ofK/view?usp=sharing)
 
 👋 Soy Gonzalo Suarez, un apasionado de la 🌐 programación y la tecnología. Comencé mi carrera en Ingeniería Ambiental, pero descubrí mi pasión por el 💻 desarrollo de software a lo largo de mis estudios. A través de cursos, bootcamp y aprendizaje autodidacta, he adquirido habilidades en programación y metodologías de trabajo.
 
